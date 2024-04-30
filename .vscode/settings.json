@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "mysql-romgio.alwaysdata.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "romgio_airline",
+            "username": "romgio_user",
+            "name": "AirlineROMGIO",
+            "askForPassword": true
+        }
+    ]
+}
